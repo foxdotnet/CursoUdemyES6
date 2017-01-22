@@ -1,7 +1,8 @@
 const IMPUESTO_IVA = 21.05
-const USUARIO = {
-    nombre: "Domingo",
-    apellidos: "García Lorenzo"
+const USUARIO = {};
+
+USUARIO.nombre = "Domingo",
+USUARIO.apellidos = "García Lorenzo"
 }
 let mensaje = "Hola amigos!!";
 
